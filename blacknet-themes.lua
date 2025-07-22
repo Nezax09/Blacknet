@@ -1,5 +1,3 @@
-local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
-
 local Blacknet = {
     TextColor = Color3.fromHex("#ffffff"),
     Background = Color3.fromHex("#5a0000"),
